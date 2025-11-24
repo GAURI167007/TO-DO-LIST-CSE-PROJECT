@@ -1,8 +1,7 @@
 A simple and interactive command-line To-Do List application built using Python.
 This project helps users manage daily tasks efficiently with features like task priorities, motivational messages, achievements, and automatic data saving.
 
- Features:
-•	Add tasks with priority levels (High/Medium/Low)
+ Features:	Add tasks with priority levels (High/Medium/Low)
 •	Remove tasks by task number or name
 •	View tasks sorted by priority
 •	Automatic timestamp for each created task
@@ -26,21 +25,20 @@ os	                Clear console and check file existence
 	
 	
 
- How to Run the Project:
+How to Run the Project:
 1. Install Python (3.10+ recommended)
 2. Open the folder in VS Code or terminal
 3. Run the script:
 python todo.py
 
 
-Project Structure
-
+Project Structure:
  todo-list-project
 │── todo.py           
 │── PROJECT REPORT.pdf        
 │── README.md
 
- Functions Overview
+ Functions Overview:
 1. addtask()
 Takes user input
 Validates priority
